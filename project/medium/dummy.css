@@ -1,0 +1,18 @@
+body{
+    font-size:18px
+}
+
+.home{
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.navigation{
+    text-align:center;
+}
+
+body{
+    background: url("./assets/images/friends.jpeg");
+    background-position: top;
+   
+}
